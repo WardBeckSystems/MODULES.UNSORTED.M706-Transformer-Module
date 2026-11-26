@@ -38,7 +38,7 @@ Wiki page: [M706](../../../../PAGES/M706.md)
 - **Title block:** (165, 26)–(392, 77) mm: Iss MOD  ICKD_ · USED ON · MATL. · WBS WARD-BECK · DRN: · GEB · M7og · DATE · Nov73 · FINISH · TRANSFORMER MODULE · CKD. GEB · SCHEMATiC · SCALE · TOLS · 706 - 02 00|
 - **Wiring (first pass):** 67 connected wire groups from 229 runs; labelled ends: 391 mm → Iss; 74 mm → M7o6; 71 mm → M7o6; 71 mm → T3; 58 mm → T3
 
-Every curve, box, word and wire group: [1973 - 706-02-001 - TRANSFORMER MODULE SCHEMATIC - DRN GEB (traced).json](../SCHEMATICS/1973%20-%20706-02-001%20-%20TRANSFORMER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20(traced).json) (the CAD file: `1973 - 706-02-001 - TRANSFORMER MODULE SCHEMATIC - DRN GEB (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 706-02-001 - TRANSFORMER MODULE SCHEMATIC - DRN GEB (traced).json](../SCHEMATICS/1973%20-%20706-02-001%20-%20TRANSFORMER%20MODULE%20SCHEMATIC%20-%20DRN%20GEB%20%28traced%29.json) (the CAD file: `1973 - 706-02-001 - TRANSFORMER MODULE SCHEMATIC - DRN GEB (traced).dxf`).
 
 ## Full text
 
