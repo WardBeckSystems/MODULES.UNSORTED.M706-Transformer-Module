@@ -1,6 +1,6 @@
 # M706 Transformer Module · Communication
 
-Ward-Beck Systems M706, 1973|6. Wiki page: [M706 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M706.html)
+Ward-Beck Systems M706, 1973|6. Wiki page: [M706 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M706-Transformer-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

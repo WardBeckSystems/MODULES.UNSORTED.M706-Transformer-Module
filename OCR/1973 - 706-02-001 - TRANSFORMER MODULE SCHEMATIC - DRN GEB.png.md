@@ -1,5 +1,5 @@
 # 1973 - 706-02-001 - TRANSFORMER MODULE SCHEMATIC - DRN GEB.png
-Wiki page: [M706](../../../../PAGES/M706.md)
+Wiki page: [M706](../)
 
 
 - **Year:** 1973 (title block date)
